@@ -1,4 +1,4 @@
-A collection of initialization and analysis routines used for the initialization of monolayers. 
+A collection of initialization and analysis routines primarily focused on monolayer systems. 
 
 These tools are used in the `signac` projects for the terminal group screenings.
 
